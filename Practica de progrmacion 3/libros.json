@@ -1,0 +1,17 @@
+[
+  {
+    "codLibro": "L1",
+    "titulo": "Python",
+    "precio": 50
+  },
+  {
+    "codLibro": "L2",
+    "titulo": "Java",
+    "precio": 80
+  },
+  {
+    "codLibro": "L3",
+    "titulo": "C++",
+    "precio": 40
+  }
+]
